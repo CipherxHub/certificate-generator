@@ -28,3 +28,8 @@ A modern, web‑based certificate generator tool built with HTML, CSS, JavaScrip
     - **script.js**
     - **style.css**
 
+## Upcoming Features
+- Bulk Mailing System
+- Certificate Verification
+- Deployment on Vercel/Netify
+- More Customizable font options (size, color, family)
