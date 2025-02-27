@@ -20,11 +20,11 @@ A modern, web‑based certificate generator tool built with HTML, CSS, JavaScrip
 - Email integration using Node.js, Express, and Nodemailer
 
 ## File Structure
-certificate-generator/
-├── package.json
-├── .env
-├── server.js
-└── public/
-    ├── index.html
-    ├── script.js
-    └── style.css
+- **certificate-generator/**
+  - **package.json**
+  - **server.js**
+  - **public/**
+    - **index.html**
+    - **script.js**
+    - **style.css**
+
