@@ -1,0 +1,15 @@
+{
+    "name": "certificate-generator",
+    "version": "1.0.0",
+    "description": "Certificate generator tool with email integration",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1",
+      "nodemailer": "^6.4.11"
+    }
+  }
+  
